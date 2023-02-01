@@ -10,10 +10,20 @@
 <p>
     <img src="./paper/fp.jpg" />
 </p>
-<h3>Szegmentáció<h3>
+<p>
+Az adatbázis 520 db képet (326×357 méretű) tartalmazott, mely 7 önkéntes ujjlenyomatait tartalmazza. Hat önkéntes mindkét kezéről, mind a 10 ujjáról 8 db felvétel készült (6*10*8=480), egy önkéntes egy keze került csak beolvasásra (1*5*8=40). Ez a későbbiekben 65 darab osztályt add meg. A képi adatokat egy optikai scanner segítségével gyűjtötték be.
+</p>
+<h3>Szegmentáció</h3>
 <p>
     <img src="./paper/s1.jpg" />
 </p>
+<p>
+Először a tényleges ujjlenyomatot kellett elválasztani a háttértől és egyéb információktól, ehhez először pár képet manuálisan szegmentálni kell, majd a megfelelő jellemzők alapján el lehet dönteni a kép adott részéről, hogy az releváns információt tartalmaz vagy sem.
+</p>
+<i>Osztályozott pontok érték alapján</i>
+<img src="./paper/s5.jpg" />
+<img src="./paper/s6.jpg" />
+
 <table>
     <tr>
         <td><img src="./paper/s2.jpg" /></td>
