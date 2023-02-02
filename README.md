@@ -32,7 +32,10 @@ Először a tényleges ujjlenyomatot kellett elválasztani a háttértől és eg
     </tr>
 </table>
 
-<h3>Információ kinyerés<h3>
+<h3>Információ kinyerés</h3>
+<p>
+    Különböző irányú és értékű Gábor szűrők segítségével a barázdák kiegészíthetőek, hogy belőlük kinyerhetőek legyenek az úgynevezett minúciák. A Gábor szűrős felerősítés után a barázdák vázképét és heurisztikát használva különböző minúciákat tudunk kinyerni.
+</p>
 <table>
     <tr>
         <td><img src="./paper/g1.jpg" /></td>
@@ -40,7 +43,9 @@ Először a tényleges ujjlenyomatot kellett elválasztani a háttértől és eg
         <td><img src="./paper/g3.jpg" /></td>
     </tr>
 </table>
-
+<p>
+Néhány esetben szükséges lehet a vázkép módosítására, hogy a felesleges minúciákat ellimináljuk. Ilyenek lehetnek olyan részek ahol a barázda vonalak megfelelő szögben állnak, de valami miatt megszakított, vagy ha egy barázda vonalból rövid elágazások indulnak ki.
+</p>
 <table>
     <tr>
         <td><img src="./paper/reduc1.jpg" /></td>
@@ -54,6 +59,9 @@ Először a tényleges ujjlenyomatot kellett elválasztani a háttértől és eg
         <td><img src="./paper/reduc4.jpg" /></td>
     </tr>
 </table>
+<p>
+Két féle típusú minúcia megjelenítése, a barázda lezáró minúciák elhagyásával.
+</p>
 <img src="./paper/kp.jpg" />
 
 
