@@ -64,7 +64,8 @@ Két féle típusú minúcia megjelenítése, a barázda lezáró minúciák elh
 </p>
 <img src="./paper/kp.jpg" />
 
-
+<p>
+Gyakori az eset, hogy egy adott ujj esetében is a felvétel elcsúszik egy másik felvételhez képest, így ezeket érdemes minnél jobban uniformizálni, egy megfelelő transzformációt keresni, hogy a köztük lévő távolságmérő függvény a lehető legjobb eredményt adja.
 <table>
     <tr>
         <td><img src="./paper/corr.jpg" /></td>
